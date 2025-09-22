@@ -1,1 +1,3 @@
 hello a.txt
+some changes in a.txt
+some more lines
